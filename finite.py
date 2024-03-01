@@ -13,8 +13,7 @@ def llprint(lst):
 
 if __name__ == "__main__":
 
-    pass  # delete this line when you add your code below
-
+    pass
     #
     # your tests go here
     #
